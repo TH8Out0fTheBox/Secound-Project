@@ -1,2 +1,2 @@
 # Secound-Project
-learning Git
+Learning Git
